@@ -94,6 +94,10 @@ We structured the code to maintain separation of concerns as much as possible:
    - `Username: 2` | `Password: 2`
 
 ---
+## 🎥 Video Demo
+You can view a demonstration of the application here:
+[![Video Demo on YouTube](Video Demo)](https://youtu.be/4jP6csjdXbI)
+
 
 ## 🙏 Acknowledgments
 
